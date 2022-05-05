@@ -1,5 +1,5 @@
 # Network-based Intrusion Detection System
-*Using Classifiers (Scikit Learn)*
+*Evaluation of Classifiers (Scikit Learn)*
 
 **Dataset** [NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html)
 
