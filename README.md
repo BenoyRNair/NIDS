@@ -1,2 +1,2 @@
 # NIDS
-Network based Intrusion Detection Systems (using Classifiers)
+Network based Intrusion Detection Systems: Using Classifiers (Scikit Learn)
