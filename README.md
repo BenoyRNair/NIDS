@@ -1,7 +1,7 @@
 # Network-based Intrusion Detection System
 *Using Classifiers (Scikit Learn)*
 
-**Dataset** NSL-KDD
+**Dataset** [NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html)
 
 **Classification**
 
@@ -32,4 +32,20 @@
 Metrics and Confusion Matrices: https://github.com/BenoyRNair/NIDS/blob/main/NIDS_EvaluateClassifiers.pdf
 
 
-[This notebook](https://github.com/BenoyRNair/NIDS_MultipleClassifiers) was developed and tested in ***Google Colab***.
+[This notebook](https://github.com/BenoyRNair/NIDS_MultipleClassifiers) was tested in ***Google Colab***.
+
+## Credits
+
+1. Adopted from [Predicting Network Attacks](https://colab.research.google.com/github/smlra-kjsce/Cyber-ML-DL-101/blob/master/Predicting_Network_Attacks.ipynb)
+2. [Scikit Learn](https://scikit-learn.org/)
+3. [Alive progress](https://pypi.org/project/alive-progress/)
+
+## Licence
+@Author [Benoy R Nair](https://github.com/BenoyRNair)
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied See the License for the specific language governing permissions and limitations under the License.
